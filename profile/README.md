@@ -2,7 +2,7 @@
 
 GitHub organisation for sharing code and data related to
 UCL Computer Science teaching & research by
-[Dr Matthew Caldwell](m.caldwell@ucl.ac.uk)
+[Dr Matthew Caldwell](mailto:m.caldwell@ucl.ac.uk)
 that doesn't fall into one of the dedicated module sites below.
 
 See also:
